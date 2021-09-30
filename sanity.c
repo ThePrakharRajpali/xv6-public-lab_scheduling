@@ -27,7 +27,6 @@ int main(int argc, char *argv[])
 			case 0:
 				for (double z = 0; z < 10000.0; z += 0.1)
 				{
-					double x = x + 3.14 * 89.64;
 				}
 				break;
 			case 1:

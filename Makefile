@@ -178,8 +178,7 @@ UPROGS=\
 	_usertests\
 	_wc\
 	_zombie\
-	_ps\
-	_nice\
+	_yield\
 	_sanity\
 	_SMLsanity\
 
